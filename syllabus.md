@@ -17,6 +17,12 @@ Note: At present, we are using NCSA's [Nebula][nb] Openstack cloud computing sys
 
 [nb]: https://wiki.ncsa.illinois.edu/display/NEBULA/Nebula+Home
 
+## Safety and Security Information ##
+
+Since this course meets face-to-face, please become familiar with the [safety announcement][san] provided by the University Police.
+
+[san]: http://police.illinois.edu/dpsapp/wp-content/uploads/2016/08/syllabus-attachment.pdf
+
 ## Texts ##
 
 There are no required textbooks for this course. Instead, we will
