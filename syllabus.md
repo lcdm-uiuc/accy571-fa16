@@ -140,9 +140,9 @@ highest and lowest score and average the three remaining scores.
 To receive full credit from instructor grading, your assignment must be
 submitted prior to the deadline. There will be **NO** grace period, late
 assignments will not be accepted. The assignment deadline is
-6:00 PM Central on the Monday following the relevant week. 
+6:00 PM Central on the Tuesday following the relevant week. 
 
-**NOTE:** We will drop your two lowest assignment scores, but only if you performed peer assessment.
+**NOTE:** We will drop your lowest assignment score, but only if you performed peer assessment.
 
 ### Peer Review ###
 
@@ -150,7 +150,7 @@ Weekly assignments will be reviewed by your course peers, as well as
 automatic instructor grading. 70 points (out of the maximum 150 points
 for each assignment) for each weekly assignment submission
 will derive from peer review, 80 points (out of the maximum 150 points
-for each assignment) are assigned from automated instructor review. You will receive 30 points each week for simply viewing and grading your peers' assignments. Note that you can (and should) still grade your peers even if you miss an assignment submission. Peer review of an assignment must be completed by 6:00 PM Central on Saturday of the following week (i.e.,you submit your assignment on a Monday and you must peer assess other students assignments by the following Saturday). You will be assigned assignments to grade approximately one hour after the late assignment deadline, thus around 1:00 pm Tuesday afternoon of each week.
+for each assignment) are assigned from automated instructor review. You will receive 30 points each week for simply viewing and grading your peers' assignments. Note that you can (and should) still grade your peers even if you miss an assignment submission. Peer review of an assignment must be completed by 6:00 PM Central on Friday of the following week (i.e., you submit your assignment on a Tuesday and you must peer assess other students assignments by the following Friday). You will be assigned assignments to grade approximately one hour after the assignment deadline, thus around 7:00 pm Tuesday evening of the relevant week.
 
 | **Item** | **Grade** | 
 |----|----| 
@@ -179,7 +179,7 @@ This course will utilize two exams. The first exam will be in-class on Wednesday
 | Assignments | 60% |
 | Lecture Participation | 10% | 
 
-Note: We will drop your two lowest assignment scores, but only if you performed peer assessment.
+Note: We will drop your lowest assignment score, but only if you performed peer assessment.
 
 
 ### Grading Scale ###
