@@ -218,16 +218,51 @@ To get credit for your wiki entry you must contact the course teaching assistant
 ## Sample Weekly Schedule ##
 
 The following table summarizes the typical weekly schedule, where the
-assignments are collected the Monday following the Friday when quizzes
-are due.
+assignments are collected the Tuesday following the week when the assignments are released.
 
 | Task | Days into *Week* | Date/Time |
 | ---  | ---  | ---     |
 | Week Opens | 0 | Monday, 12:00 am |
-| Lecture 1 (when used for 571)| 0 | Monday, 9:30-10:50 am |
-| Lecture 2 | 0 | Monday, 11:00 am - 12:20 pm |
-| Lecture 3 (when used for 571)| 2 | Wednesday, 9:30-10:50 am |
-| Lecture 4 | 2 | Wednesday, 11:00 am - 12:20 pm|
-| Assignment Collected  | 7 |  *The following* Monday, 6:00 pm |
-| Assignments distributed for Peer Assessment  | 8 |  *The following* Tuesday, 1:00 pm |
-| Peer Assessment Deadline  | 12 |  *The following* Saturday, 6:00 pm |
+| Lecture 1 | 0 | Monday, 9:30-10:50 am |
+| Lecture 2 (when used for 570) | 0 | Monday, 11:00 am - 12:20 pm |
+| Assignment Released  | 2 |  Wednesday, 9:00 am |
+| Lecture 3 | 2 | Wednesday, 9:30-10:50 am |
+| Lecture 4 (when used for 570)| 2 | Wednesday, 11:00 am - 12:20 pm|
+| Assignment Collected  | 8 |  *The following* Tuesday, 6:00 pm |
+| Assignments distributed for Peer Assessment  | 8 |  *The following* Tuesday, 7:00 pm |
+| Peer Assessment Deadline  | 11 |  *The following* Friday, 6:00 pm |
+
+## Assignment Schedule ##
+
+The following table provides the full set of deadlines for ACCY 571.
+
+| Date	| Item	| Time |
+| --- | --- | --- |
+| Wed. Sep 21, 2016	| HW#1 Out	| 9:00 AM |
+| Tue. Sep 27, 2016	| HW#1 In	| 6:00 PM |
+| Wed. Sep 28, 2016	| HW#2 Out	| 9:00 AM |
+| Fri. Sep 30, 2016	| HW#1 Peer	| 6:00 PM |
+| Tue. Oct 4, 2016	| HW#2 In	| 6:00 PM |
+| Wed. Oct 5, 2016	| HW#3 Out	| 9:00 AM |
+| Fri. Oct 7, 2016	| HW#2 Peer	| 6:00 PM |
+| Wed. Oct 12, 2016	| Midterm: L15-L28 | 11:00 AM |
+| Tue. Oct 18, 2016	| HW#3 In	| 6:00 PM |
+| Wed. Oct 19, 2016	| HW#4 Out	| 9:00 AM |
+| Fri. Oct 21, 2016	| HW#3 Peer	| 6:00 PM |
+| Tue. Oct 25, 2016	| HW#4 In	| 6:00 PM |
+| Wed. Oct 26, 2016	| HW#5 Out	| 9:00 AM |
+| Fri. Oct 28, 2016	| HW#4 Peer	| 6:00 PM |
+| Tue. Nov 1, 2016	| HW#5 In	| 6:00 PM |
+| Wed. Nov 2, 2016	| HW#6 Out	| 9:00 AM |
+| Fri. Nov 4, 2016	| HW#5 Peer	| 6:00 PM |
+| Tue. Nov 8, 2016	| HW#6 In	| 6:00 PM |
+| Wed. Nov 9, 2016	| HW#7 Out	| 9:00 AM |
+| Fri. Nov 11, 2016	| HW#6 Peer	| 6:00 PM |
+| Tue. Nov 15, 2016	| HW#7 In	| 6:00 PM |
+| Wed. Nov 16, 2016	| HW#8 Out	| 9:00 AM |
+| Fri. Nov 18, 2016	| HW#7 Peer	| 6:00 PM |
+| Tue. Nov 29, 2016	| HW#8 In	| 6:00 PM |
+| Wed. Nov 30, 2016	| HW#9 Out	| 9:00 AM |
+| Fri. Dec 2, 2016	| HW#8 Peer	| 6:00 PM |
+| Tue. Dec 6, 2016	| HW#9 In	| 6:00 PM |
+| Fri. Dec 9, 2016	| HW#9 Peer	| 6:00 PM |
