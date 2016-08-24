@@ -68,6 +68,16 @@ our answer on Moodle.
 [qaf]: https://learn.illinois.edu/mod/forum/view.php?id=1571626
 [af]: https://learn.illinois.edu/mod/forum/view.php?id=1571586
 
+## Office Hours ##
+
+Scheduled office hours are listed below for all instructors. 
+You can also communicate via the course forums and email.
+
+| Name | Data | Time | Location | 
+| --- | --- | --- | --- | 
+| Brunner | Wednesday | 1:30 pm - 2:30 pm | 226 Astronomy |
+| Kim | Friday | 11:00 am - 12:00 pm | 234 Astronomy |
+
 ## Course Outline ##
 
 Note: The following list of topics is tentative. We build the course
