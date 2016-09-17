@@ -1,4 +1,4 @@
-# Week X Lesson 3 #
+# Week X Lesson 2 #
 ## XYZ ##
 
 In this lesson you will learn about XZYZ
@@ -26,4 +26,4 @@ Approximately 2 hours.
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week X Lesson 3 Assessment]()
+When you have completed and worked through the above readings, please take the [Week X Lesson 2 Assessment]()

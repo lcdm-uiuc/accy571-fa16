@@ -1,25 +1,28 @@
-#Week X: #
+# Week 5: Introduction to Machine Learning #
+
 ### Objectives ###
 
-![Unix Image](../images/Draft_Version_picture.png)
 
-#####By the end of this lesson, you should be able to:######
+In this week, you will learn basic concepts about machine learning,
+including the basic Python libraries that we will use repeatedly
+throughout this course. This includes learning how to use scikit learn
+to perform different types of machine learning as well as the
+scikit learn (`sklearn`) and `statsmodel` libraries to perform regression. We also will explore the important, and often overlooked task, of data pre-processing. This includes handling missing or invalid data, computation of dates, and understanding the data provenance.
 
-- Know 
-- Understand 
-- Understand 
+
+##### By the end of this lesson, you should be able to:######
+
+- Know the basics concepts that underlie machine learning.
+- Understand the importance of data preparation to enable a successful machine learning analysis.
+- Understand the basic concepts of linear regression.
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline* | Points|
-|:------| -----|-------|----------:|
-|**[Week X Introduction Video][wv]** | 10 Minutes | Tuesday |NA|
-|**[Week X Lesson 1: ](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week X Lesson 2: ](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week X Lesson 3: ](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**Week X Quiz**| 30 Minutes | Friday | 40|
+|Activities and Assignments | Time Estimate | Deadline* |
+|:------| -----|---------:|
+|**[Week 5 Lesson 1: Intro to Linear Regression](lesson1.md)**| 3 Hours |Monday|
+|**[Week 5 Lesson 2: Introduction to Machine Learning: Pre-processing](lesson2.md)**| 3 Hours | Monday |
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
