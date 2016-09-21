@@ -22,6 +22,8 @@ scikit learn (`sklearn`) and `statsmodel` libraries to perform regression. We al
 |:------| -----|---------:|
 |**[Week 5 Lesson 1: Intro to Linear Regression](lesson1.md)**| 3 Hours |Monday|
 |**[Week 5 Lesson 2: Introduction to Machine Learning: Pre-processing](lesson2.md)**| 3 Hours | Monday |
+|**[Week 5 Lesson 3: Introduction to Multivariate Regression](lesson3.md)**| 3 Hours | Wednesday |
+|**[Week 5 Lesson 4: Introduction to Machine Learning: Pre-processing](lesson4.md)**| 3 Hours | Wednesday |
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
