@@ -76,7 +76,7 @@ You can also communicate via the course forums and email.
 | Name | Data | Time | Location | 
 | --- | --- | --- | --- | 
 | Brunner | Wednesday | 1:30 pm - 2:30 pm | 226 Astronomy |
-| Kim | Friday | 11:00 am - 12:00 pm | 234 Astronomy |
+| Kim | Thursday | 1:30 pm - 2:30 pm | 234 Astronomy |
 
 ## Course Outline ##
 
