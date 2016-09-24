@@ -4,3 +4,7 @@
 .ipynb_checkpoints
 .pyc
 __pycache__
+
+Week6/notebooks/tree.dot
+
+Week6/notebooks/tree.svg
