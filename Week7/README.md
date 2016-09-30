@@ -29,7 +29,7 @@ are used.
 |**[Week 7 Lesson 1: Introduction to dimension reduction](lesson1.md)**| 2 Hours | Monday |
 |**[Week 7 Lesson 2: Introduction to clustering](lesson2.md)**| 2 Hours | Monday |
 |**[Week 7 Lesson 3: Introduction to density estimation](lesson3.md)**| 2 Hours | Wednesday|
-|**[Week 7 Lesson 4: Introduction to recommender systems](lesson3.md)**| 2 Hours | Wednesday|
+|**[Week 7 Lesson 4: Introduction to recommender systems](lesson4.md)**| 2 Hours | Wednesday|
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
