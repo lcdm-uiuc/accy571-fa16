@@ -1,4 +1,4 @@
-# Week 7 Lesson 1 #
+# Week 7 Lesson 4 #
 ## Machine Learning: Introduction to Recommender Systems ##
 
 In this lesson, you will be introduced to recommendation systems. Anyone
