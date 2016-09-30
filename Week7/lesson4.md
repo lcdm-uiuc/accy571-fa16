@@ -1,36 +1,76 @@
-# Week 1 Lesson 3 #
-## The Unix File System ##
+# Week 7 Lesson 1 #
+## Machine Learning: Introduction to Recommender Systems ##
 
-In this lesson you will begin working at the Unix prompt in order to
-interact with the Unix file system and work with
-files and processes.
+In this lesson, you will be introduced to recommendation systems. Anyone
+who has used Internet sites for shopping has been exposed to a
+recommendation system. For example, when you shop at Amazon, you will be
+given recommendations for items that are often bought together and also
+items that are similar to the current item of interest. The former is an
+example of user-based collaborative filtering, where the results from
+other _similar users_ are summarized to make recommendations/ The latter
+is an example of item-based collaborative filtering, where other
+_similar items_ are summarized to make recommendations. Recommendation
+systems are often easy to understand conceptually, since they can be
+develop from simple association rules (i.e., A goes with B) and have been
+frequently used with success by both traditional brick-n-mortar shops
+and online sites.
 
-### Objectives ###
+###Objectives ###
+
 By the end of this lesson, you will be able to:
 
-- Understand the basic Unix file system.
-- Be able to create, copy, move, and delete files and directories.
+- Understand the difference between user and item based recommendation
+- Understand the basic concepts of the _a priori_ algorithm
+- Understand the basic concepts of frequent itemsets, their construction, and their use in making recommendations.
+- Be able to develop a simple recommendation algorithm. 
 
-### Time Estimate###
+### Time Estimate ###
 
 Approximately 2 hours.
 
-### Readings ###
+### Readings ####
 
-- Read chapters 3-4 from the free book [The Linux Command Line
-(PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp), Second
-Internet Edition, by William E. Shotts, Jr. 
-- Follow along by entering the commands as directed into a terminal
-window within your Docker container.
-- Explore the INFO490 Course [Introduction to Unix](notebooks/introduction2unix.ipynb) Notebook
- 
-#### *Optional Additional Readings* ####
-- [Guide to Unix/Why Unix-like](https://en.wikibooks.org/wiki/Guide_to_Unix/Why_Unix-like)
-- [Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-- [Introduction to Linux: A Hands-on Guide](http://www.tldp.org/LDP/intro-linux/html/index.html)
+_Course Notebook_
 
-### Assessment ###
+- Explore the course [Recommender System][l1nb]
+IPython Notebook on the course JupyterHub server.
 
-When you have completed and worked through the above readings, please
-take the [Week 1 Lesson 3
-Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095470).
+_Other Material_
+
+- An IBM developerWorks article [introducing recommender systems][ibm-rs]
+- Wikipedia article on [Recommender Systems][wrs]
+- Wikipedia article on [A Priori Algorithm][wap]
+
+## Optional Readings ##
+
+- Wikipedia article on [Cosine Similarity][wcs]
+- Machine Learning Review of [Recommender Systems][rrs]
+- Python Blog on [Association Rules][bar] 
+  
+- **Chapter6: [Association Rules][bc-ar]** from _Introduction to Data Mining_ by Tan, Steinbach, and Kumar
+- **Chapter 8: [Recommendation Systems][mmds-rs]** from _Mining Massive Datasets_ by Jure Leskovec, Anand Rajaraman, and Jeff Ullman
+
+_Safari Online Books_
+
+- **Chapter 22: Recommender Systems** from _Data Science from Scratch_, by Joel Grus.
+- **Chapter 4: Recommending Movies Using Affinity Analysis** from _Learning Data Mining with Python_, by Robert Layton
+- **Chapter 6: Mining Frequent Patterns, Associations, and Correlations** from _Data Mining: Concepts
+and Techniques_, 3rd Edition by Jiawei Han, Micheline Kamber, and Jian
+Pei.
+
+-----
+
+[l1nb]: notebooks/intro2rs.ipynb
+
+[wrs]: https://en.wikipedia.org/wiki/Recommender_system
+[wap]: https://en.wikipedia.org/wiki/Apriori_algorithm
+[wcs]: https://en.wikipedia.org/wiki/Cosine_similarity
+
+[rrs]: http://www.prem-melville.com/publications/recommender-systems-eml2010.pdf
+
+[bc-ar]: http://www-users.cs.umn.edu/~kumar/dmbook/ch6.pdf
+[bar]: http://aimotion.blogspot.com/2013/01/machine-learning-and-data-mining.html
+
+[ibm-rs]: http://www.ibm.com/developerworks/library/os-recommender1/index.html
+
+[mmds-rs]: http://infolab.stanford.edu/~ullman/mmds/ch9.pdf
