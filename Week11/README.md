@@ -1,25 +1,25 @@
-#Week X: #
+#Week 11: Overview #
+
+## Sentiment Analysis and Network Analysis ##
+
+This week we first we will learn about  semantic analysis and how the word vector space model that is used by the _word2vec_ algorithm enables meaning to be extracted from text documents. Next, we introduce basic network analysis by using the Python NetworkX library. This week, we will introduce basic graph concepts such as a node, edge, and the difference between directed and undirected graphs.
+
 ### Objectives ###
 
-![Unix Image](../images/Draft_Version_picture.png)
 
 #####By the end of this lesson, you should be able to:######
 
-- Know 
-- Understand 
-- Understand 
+- Understand the basic concepts of semantic analysis
+- Understand how to use the NetworkX python graph library
+- Understand the basic concepts and representations of a graph
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline* | Points|
-|:------| -----|-------|----------:|
-|**[Week X Introduction Video][wv]** | 10 Minutes | Tuesday |NA|
-|**[Week X Lesson 1: ](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week X Lesson 2: ](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week X Lesson 3: ](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**Week X Quiz**| 30 Minutes | Friday | 40|
+|Activities and Assignments | Time Estimate | Deadline* | 
+|:------| -----|---------:|
+|**[Week 11 Lesson 1: Introduction to Sentiment Analysis](lesson1.md)**| 3 Hours | Monday|
+|**[Week 11 Lesson 2: Introduction to Network Analysis: Graph Concepts](lesson2.md)**| 3 Hours |Wednesday|
 
-*Please note that unless otherwise noted, the due time is 6pm Central time!
+*Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
