@@ -1,29 +1,68 @@
-# Week X Lesson 1 #
-## XYZ ##
+# Week 15 Lesson 1 #
+## Introduction to Spark Machine Learning ##
 
-In this lesson you will learn about XZYZ
+In this lesson, you will learn about Spark Machine Learning. Spark
+machine learning encompasses two packages: Spark MLlib and Spark ML. THe
+former operates on RDDs, while the latter, which is less well developed,
+operates on DataFrames. In this lesson, we focus on MLlib, which
+includes functionality for basic statistics functionality, as well as
+classification, regression, clustering, and dimensional reduction. In this
+lesson you will not only learn about the MLlib package, but specifically
+how to use pySpark to use this functionality to generate models from
+large data sets.
+
 
 ###Objectives ###
 
-By the end of this lesson, you will:
+By the end of this lesson, you will be able to:
 
-- Know 
-- Know 
-- Understand 
-
+- Understand the basic contents of the Spark ML package
+- Be familiar with basic statistical analysis by using the Spark ML package
+- Be able to use pySpark to perform machine learning by using Spark.
 
 ### Time Estimate ###
 
-Approximately 2 hours.
+Approximately 3 hours.
 
 ### Readings ####
 
-- Text
-- More Text
- 
-#### *Optional Additional Readings*####
-- Text
+_Course Notebook_
 
-### Assessment ###
+- Explore the course [Introduction to Pig][l3nb]
+IPython Notebook on the course JupyterHub server.
 
-When you have completed and worked through the above readings, please take the [Week X Lesson 1 Assessment]()
+_Other Material_
+
+- Spark [MLlib Basic Statistics][mbs]
+- Spark [MLlib Classification and Regression][mcr]
+- Spark [MLlib Clustering][mc]
+- Spark [MLlib Feature Extraction and Transformation][mfet]
+
+## Optional Readings ##
+
+- Spark [MLlib Data Types][mdt]
+- Blog discussing [topic modeling with Spark][stm]
+- Blog demonstrating [Logistic Regression with Python and Spark][blrps]
+- Blog post on [Customer Classification using Spark MLlib][bscc]
+
+_Safari Online Books_
+
+- **Chapters 2: Apache Spark MLlib** from _Mastering Apache Spark_, by Mike Frampton
+- **Chapter 11: Machine Learning with MLlib:** from _Learning Spark_, by Holden Karau, 
+Andy Konwinski, Patrick Wendell, Matei Zaharia.
+- _Machine Learning with Spark_, by Nick Pentreath
+
+-----
+
+[l3nb]: notebooks/sparkmllib.ipynb
+
+[mcr]: https://spark.apache.org/docs/latest/mllib-classification-regression.html
+[mc]: https://spark.apache.org/docs/latest/mllib-clustering.html
+[mfet]: https://spark.apache.org/docs/latest/mllib-feature-extraction.html
+
+[blrps]: https://www.codementor.io/spark/tutorial/spark-mllib-logistic-regression
+[stm]: https://databricks.com/blog/2015/09/22/large-scale-topic-modeling-improvements-to-lda-on-spark.html
+[bscc]: https://www.mapr.com/blog/classifying-customers-mllib-and-spark
+
+[mdt]: https://spark.apache.org/docs/latest/mllib-data-types.html
+[mbs]: https://spark.apache.org/docs/latest/mllib-statistics.html
