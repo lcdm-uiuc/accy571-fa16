@@ -32,7 +32,7 @@ IPython Notebook on the course JupyterHub server.
 _Other Material_
 
 - Wikipedia article on [Topic Models][wtm] 
-- Introduction to topic modeling, [part 1][[itm] and [part 2][itm-2]
+- Introduction to topic modeling, [part 1][itm] and [part 2][itm-2]
 
 ## Optional Readings ##
 
